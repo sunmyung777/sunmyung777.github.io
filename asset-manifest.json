@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/subster/static/js/main.ac49df4e.js",
-    "index.html": "/subster/index.html",
-    "main.ac49df4e.js.map": "/subster/static/js/main.ac49df4e.js.map"
+    "main.js": "/static/js/main.ac49df4e.js",
+    "index.html": "/index.html",
+    "main.ac49df4e.js.map": "/static/js/main.ac49df4e.js.map"
   },
   "entrypoints": [
     "static/js/main.ac49df4e.js"
