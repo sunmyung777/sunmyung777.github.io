@@ -1,0 +1,2 @@
+.slide{opacity:0;transition-duration:1s ease}.slide.active{opacity:1;transition-duration:1s}.image{border-radius:10px;width:100%}.right-arrow{right:32px}.left-arrow,.right-arrow{cursor:pointer;position:absolute;top:50%;-webkit-user-select:none;user-select:none;z-index:10}.left-arrow{left:32px}@media (max-width:414px){.left-arrow{left:5px}.right-arrow{right:5px}}
+/*# sourceMappingURL=main.26aedb52.css.map*/
